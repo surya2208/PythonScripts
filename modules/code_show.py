@@ -1,3 +1,5 @@
+#inspect the pre-defined modules code in Python
+
 import inspect
 import random
 
