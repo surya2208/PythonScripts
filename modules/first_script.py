@@ -1,2 +1,5 @@
-import modules.mymodule as mymodule
-print(mymodule.my_value)
+# import mymodule
+# print(mymodule.my_value)
+
+import math
+print(math.pi)
